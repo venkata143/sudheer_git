@@ -1,3 +1,5 @@
 this is a sample file wants to place in github
 weekend
 this is the sudheer snippet of code 
+weekend 
+this is the line for checking for merge scenario
